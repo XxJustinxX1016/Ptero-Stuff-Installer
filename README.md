@@ -13,7 +13,7 @@ first i will give you script for install panel and wings
 bash <(curl -s https://pterodactyl-installer.se)
 ```
 
-by : vilhelmprytz | https://github.com/vilhelmprytz/pterodactyl-installer
+by : vilhelmprytz | <a href="https://github.com/vilhelmprytz/pterodactyl-installer">Github</a>
 
 
 | Operating System | Version | nginx support      | PHP Version |
