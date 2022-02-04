@@ -73,4 +73,5 @@ Baklava | 0.x
 
 Install :
 ```
+curl https://raw.githubusercontent.com/Humpol/pt-themes/main/MasterThemes/baklava/build.sh | sh
 ```
