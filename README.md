@@ -45,3 +45,16 @@ by : vilhelmprytz | <a href="https://github.com/vilhelmprytz/pterodactyl-install
 | CentOS           | 6       | :red_circle:       |
 |                  | 7       | :white_check_mark: |
 |                  | 8       | :white_check_mark: |
+
+
+# Themes Installer
+
+Unix | 1.x
+
+Image :
+![](https://i.ibb.co/16fCg2m/image.png?)
+
+Install :
+```
+curl https://raw.githubusercontent.com/XxJustinxX1016/Ptero-Stuff-Installer/main/installer/themes/unix/unix.sh | sh
+```
