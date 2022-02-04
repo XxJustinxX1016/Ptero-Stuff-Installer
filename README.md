@@ -58,3 +58,19 @@ Install :
 ```
 curl https://raw.githubusercontent.com/XxJustinxX1016/Ptero-Stuff-Installer/main/installer/themes/unix/unix.sh | sh
 ```
+
+Pure ui | 0.x
+
+![](https://i.ibb.co/yYk3h51/image.png)
+
+Install :
+```
+- Still Uploading
+```
+
+Baklava | 0.x
+![](https://i.imgur.com/IUPbhKy.png)
+
+Install :
+```
+```
