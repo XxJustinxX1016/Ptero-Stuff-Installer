@@ -1,9 +1,7 @@
 # Ptero-Stuff-Installer
 
 what is ptero-stuff-installer?
-ptero stuff installer is a script for you install panel, theme, addon to your panel
-
-who make this script, its me
+is a combination of other ptero installers, some of which I made myself
 
 # Pterodactyl Installer
 
@@ -74,4 +72,17 @@ Baklava | 0.x
 Install :
 ```
 curl https://raw.githubusercontent.com/Humpol/pt-themes/main/MasterThemes/baklava/build.sh | sh
+```
+
+
+# Addons Installer
+
+Bigger Console 
+
+Image :
+![2](https://user-images.githubusercontent.com/69549678/147832670-8862820d-efb4-4a67-a8f2-86ee12ecb7de.PNG)
+
+Install :
+```
+curl https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoAddons/main/addons/version1.x/Bigger_Console/build.sh | sh
 ```
