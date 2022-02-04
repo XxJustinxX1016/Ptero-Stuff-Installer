@@ -21,13 +21,13 @@ if [ ! -f "artisan" ]; then
     zip -r PterodactylBackup-$(date +"%Y-%m-%d").zip public resources 2> /dev/null
 
     echo "Downloading the Theme you picked"
-    mkdir -p tempdown && cd tempdown && git clone https://github.com/XxJustinxX1016/pt-themes .
-    cp -r MasterThemes/unix/app ..
-    cp -r MasterThemes/unix/config ..
-    cp -r MasterThemes/unix/database ..
-    cp -r MasterThemes/unix/public ..
-    cp -r MasterThemes/unix/resources ..
-    cp -r MasterThemes/unix/routes ..
+    mkdir -p tempdown && cd tempdown && git clone https://github.com/XxJustinxX1016/Ptero-Stuff-Installer .
+    cp -r installer/themes/unix/app ..
+    cp -r installer/themes/unix/config ..
+    cp -r installer/themes/unix/database ..
+    cp -r installer/themes/unix/public ..
+    cp -r installer/themes/unix/resources ..
+    cp -r installer/themes/unix/routes ..
 
     echo "Download theme addons"
 
